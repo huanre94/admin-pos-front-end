@@ -1,0 +1,7 @@
+.drinkList {
+    display: grid;
+}
+
+.drinkCard {
+    border: 1px;
+}
